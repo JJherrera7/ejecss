@@ -1,0 +1,11 @@
+h3{
+    text-align: center;
+}
+ul.a{
+    padding-left: 800px;
+    list-style-image: url("https://c.tenor.com/mtqYG6KoD2UAAAAC/homer-ninja-homer.gif");
+}
+ul.b{
+    padding-left: 500px;
+    list-style-image: url("https://www.levelup.com/core/scripts/image_proxy.php?img=https://media.giphy.com/media/7SF5scGB2AFrgsXP63/giphy.gif");
+}

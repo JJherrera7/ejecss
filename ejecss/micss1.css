@@ -1,0 +1,16 @@
+.A{
+    list-style-type: circle;
+}
+.B{
+    list-style-type: square;
+}
+.C{
+    list-style-type: upper-roman;
+}
+.D{
+    list-style-type: lower-alpha;
+}
+#sol{
+ margin-left:43%;
+ border-color: aqua;
+}

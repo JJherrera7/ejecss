@@ -1,0 +1,87 @@
+h1{
+    text-align: center;
+    color:cadetblue;
+}
+
+.UNO{
+    text-align: left;
+    color:blueviolet;
+}
+
+#UNO{
+    text-align: right;
+    color: brown;
+}
+
+#DOS{
+    text: indent 1px;;
+    color:black;
+}
+
+#TRES{
+    text-indent: 10%;
+    color: rgb(76, 0, 255);
+}
+#CUATRO{
+    text-indent: 20%;
+    color: rgb(98, 104, 15);
+}
+#CINCO{
+    text-indent: 30%;
+    color: rgb(42, 130, 165);
+}
+#SEIS{
+    text-decoration: underline;
+}
+#SIETE{
+    text-decoration: overline;
+}
+#OCHO{
+    text-decoration: line-through;
+}
+#a{
+    word-spacing: 10px;
+}
+#b{
+    text-transform: capitalize;
+}
+#c{
+    text-transform: uppercase;
+}
+#d{
+    text-transform: lowercase;
+}
+#e{
+    line-height:  200% ;
+}
+#f{
+    vertical-align: top ;
+}
+#g{
+    vertical-align: middle;
+}
+#h{
+    vertical-align: bottom;
+}
+#i{
+    vertical-align: baseline;
+}
+#j{
+    vertical-align: sub;
+}
+#k{
+    vertical-align: super;
+}
+#l{
+    vertical-align: ;
+}
+
+td{height:100px; border: 1px solid grey;}
+.aaa { vertical-align: top; }
+.bbb { vertical-align: middle; }
+.ccc { vertical-align: bottom; }
+
+.aa { vertical-align: baseline; }
+.bb { vertical-align: sub; }
+.cc { vertical-align: super; }
+.dd { vertical-align: -10px; }
